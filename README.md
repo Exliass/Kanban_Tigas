@@ -1,6 +1,8 @@
 # 🚦 Semáforo Inclusivo & Acessível
 
 Este projeto consiste em uma aplicação web interativa de um semáforo de trânsito desenvolvido com foco em **acessibilidade urbana e inclusão**. O projeto foi organizado utilizando a metodologia ágil **Kanban**, com acompanhamento diário via quadro físico e controle de versão no GitHub.
+demonstração pagina web 🌐
+https://allanbatistasanches-dotcom.github.io/semaforo-inclusivo/
 
 ---
 
